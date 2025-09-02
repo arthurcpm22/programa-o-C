@@ -8,4 +8,8 @@ int main(){
     char letra = 'A';
     char nome[20] = "Arthur";
 
+    printf ("A idade do %s é: %d\n", nome, idade);
+    printf ("A altura é: %e\n", altura);
+    printf ("A letra é: %c\n", letra);
+
     }
